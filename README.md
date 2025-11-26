@@ -12,7 +12,7 @@ deepstream的部署有着严苛的版本要求，配置之前先要知道自己�
 完成之后：deepstream-app --version验证
 没问题的话下载deepstream-yolo：https://github.com/marcoslucianops/DeepStream-Yolo
 （有详细教程）
-
+最终参考（全）：https://docs.nvidia.com/metropolis/deepstream/dev-guide/text/DS_Quickstart.html
 rtsp：
 1.确保网络良好，ip不加密。
 mediamtx: https://github.com/bluenviron/mediamtx/releases
